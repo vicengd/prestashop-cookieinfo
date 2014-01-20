@@ -8,6 +8,8 @@ Este módulo muestra un aviso legal del uso que hace el sitio web de las cookies
 
 ![Capa aviso](https://raw.github.com/vicengd/prestashop-cookieinfo/gh-pages/screenshots/frontend1.jpg "Capa aviso")
 
+![Popup](https://raw.github.com/vicengd/prestashop-cookieinfo/gh-pages/screenshots/frontend2.jpg "Popup")
+
 ## Funcionalidades
 
 - Todos los textos son configurables.
