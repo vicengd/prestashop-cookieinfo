@@ -6,7 +6,7 @@ Cookie Info: Módulo de Prestashop para avisar del uso de cookies.
 
 Este módulo muestra un aviso legal del uso que hace el sitio web de las cookies. La capa se sitúa en la parte inferior del sitio web.
 
-![Capa aviso](tree/gh-pages/screenshots/frontend1.jpg "Capa aviso")
+![Capa aviso](https://raw.github.com/vicengd/prestashop-cookieinfo/gh-pages/screenshots/frontend1.jpg "Capa aviso")
 
 ## Funcionalidades
 
