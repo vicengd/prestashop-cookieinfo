@@ -18,7 +18,7 @@ Este módulo muestra un aviso legal del uso que hace el sitio web de las cookies
 
 ## Instalación en Prestashop
 
-Para instalarlo simplemente subir el modulo al directorio "modules" y a través del back office, en el apartado "Módulos" buscar el modulo y hacer clic en el boton "Instalar".
+Después de descomprimir el fichero .zip cambiar el nombre de la carpeta a “cookieinfo” y subirla al directorio "modules”. Después, a través del back office, en el apartado "Módulos" buscar el modulo y hacer clic en el botón "Instalar".
 
 ## Compatibilidad
 
