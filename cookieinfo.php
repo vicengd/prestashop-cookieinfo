@@ -24,7 +24,7 @@ class CookieInfo extends Module
 	{
 		$this->name = 'cookieinfo';
 		$this->version = '1.2';
-		$this->author = 'brainstant';
+		$this->author = 'Vicente Garcia';
 		$this->tab = 'front_office_features';
 		$this->displayName = $this->l('Cookie Info');
 		$this->description = $this->l('Provides a module information of cookies.');
