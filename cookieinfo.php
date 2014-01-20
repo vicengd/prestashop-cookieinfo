@@ -141,7 +141,7 @@ class CookieInfo extends Module
 		{
 			$this->postValidation();
 
-			if (!isset($this->post_errors) || count($this->post_errors) != 0)
+			if (!isset($this->post_errors) || count($this->post_errors) == 0)
 				$this->postProcess();
 			else
 				foreach ($this->post_errors as $err)
