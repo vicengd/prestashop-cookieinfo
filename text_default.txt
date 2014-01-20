@@ -1,0 +1,42 @@
+<div style="text-align: justify; font-size: 14px; line-height: 1.3em;">
+<p style="text-align: center;"><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold; text-transform: uppercase;">Política de cookies</span></p>
+<p> </p>
+<p>Esta web, al igual que la mayoría de las webs actuales en Internet,<strong> usa cookies para mejorar la experiencia del usuario</strong>.</p>
+<br />
+<p>A continuación encontrará información sobre <strong>qué son las “cookies”</strong>, qué <strong>tipos de cookies</strong> utiliza este portal, cómo puede <strong>desactivar las cookies</strong> en su navegador, cómo desactivar específicamente la instalación de cookies de terceros. Si no encuentra la información específica que usted está buscando, por favor diríjase a <span style="color: #999;">info@midominio.com</span></p>
+<br />
+<p>Con la publicación en el BOE del Real Decreto-ley 13/2012, de 30 de marzo, se ha producido una serie de modificaciones en la Ley de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSICE) que entre otros afectan al uso de cookies y a los envíos comerciales por correo electrónico. Con este Real Decreto, por el que se transponen varias directivas europeas, España al igual que todos los estados miembros de la Unión Europea se adapta a la Directiva Europea 2009/136/CE "enmienda a la Directiva Europea sobre procesado y retención de datos y protección de la privacidad en las comunicaciones electrónicas" Artículo 22.2 de la Ley 34/2002. Los prestadores de servicios podrán utilizar dispositivos de almacenamiento y recuperación de datos en equipos terminales de los destinatarios, a condición de que los mismos hayan dado su consentimiento después de que se les haya facilitado información clara y completa sobre su utilización, en particular, sobre los fines del tratamiento de los datos, con arreglo a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold; text-transform: uppercase;">¿Qué son las cookies?</span></p>
+<p>Las cookies son pequeños archivos que algunas plataformas, como las páginas web, pueden instalar en su ordenador, smartphone, tablet o televisión conectada a Internet. Sus funciones pueden ser muy variadas: almacenar sus preferencias de navegación, recopilar información estadística, permitir ciertas funcionalidades técnicas… En ocasiones, las cookies se utilizan para almacenar información básica sobre los hábitos de navegación del usuario o de su equipo, hasta el punto, según los casos, de poder reconocerlo.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold; text-transform: uppercase;">¿Por qué son importantes?</span></p>
+<p>Las cookies son útiles por varios motivos. Desde un punto de vista técnico, permiten que las páginas web funcionen de forma más ágil y adaptada a sus preferencias, como por ejemplo almacenar su idioma, ciudad o país. Además, ayudan a los responsables de los sitios web a mejorar los servicios que ofrecen, gracias a la información estadística que recogen a través de ellas.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold; text-transform: uppercase;">¿Cómo utilizamos las cookies?</span></p>
+<p>Navegar por la web de <a style="color: #999;" href="http://www.midominio.com/" target="_blank">midominio.com</a>, supone que se puedan instalar los siguientes tipos de cookies:</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold;">Cookies de mejora del rendimiento:</span></p>
+<p>Este tipo de cookies conserva sus preferencias para ciertas herramientas o servicios para que no tenga que reconfigurarlos cada vez que visita nuestra web y, en algunos casos, pueden ser aportadas por terceros. En el caso de las web de comercio electrónico, permiten mantener información sobre su cesta de la compra.<br /> Utilizamos las denominadas "cookies de estado de la sesión" para poder mejorar nuestros servicios con el fin de mejorar la experiencia de navegación de los usuarios. Si estas cookies se bloquean o se eliminan, el sitio web seguirá funcionando.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold;">Cookies estrictamente necesarias:</span></p>
+<p>Estas cookies son necesarias para el correcto uso de la página web, permitiendo el acceso a secciones que cuentan con filtros de seguridad. Sin estas cookies, muchos de los servicios disponibles no estarían operativos.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold;">Cookies publicitarias:</span></p>
+<p>Son aquéllas que, bien tratadas por nosotros o por terceros, permiten gestionar eficazmente los espacios publicitarios de nuestro sitio web, adecuando el contenido del anuncio al contenido del servicio solicitado o al uso que realice de nuestra página web. Gracias a ella podemos conocer sus hábitos de navegación en Internet y mostrarle publicidad relacionada con su perfil de navegación.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold;">Google Analytics:</span></p>
+<p>Google Analytics es una herramienta gratuita de análisis web de Google que principalmente permite que los propietarios de sitios web conozcan cómo interactúan los usuarios con su sitio web. Asimismo, habilita cookies en el dominio del sitio en el que te encuentras y utiliza un conjunto de cookies denominadas "__utma" y "__utmz" para recopilar información de forma anónima y elaborar informes de tendencias de sitios web sin identificar a usuarios individuales. <a style="color: #999;" title="Cookies de Google Analytics" href="http://developers.google.com/analytics/resources/concepts/gaConceptsCookies" target="_blank">Más información sobre las cookies de Google Analytics e información sobre la privacidad</a>. Gracias a ello podemos estudiar la navegación por nuestras páginas web, y mejorar.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold;">Otras cookies de terceros:</span></p>
+<p>Se pueden instalar cookies de terceros que permitan gestionar y mejorar los servicios que éstos ofrecen. Un ejemplo de este uso son los enlaces a las redes sociales que permiten compartir nuestros contenidos.</p>
+<p> </p>
+<p><span style="color: #777777; font-family: Arial; font-size: 12px; font-style: normal; font-weight: bold; text-transform: uppercase;">¿Cómo puedo configurar mis preferencias?</span></p>
+<p>Puede permitir, bloquear o eliminar las cookies instaladas en su equipo mediante la configuración de las opciones de su navegador de internet. En el caso en que las bloquee, es posible que ciertos servicios que necesitan su uso no estén disponibles para usted.<br /> A continuación le ofrecemos enlaces en los que encontrará información sobre cómo puede activar sus preferencias en los principales navegadores:</p>
+<ul>
+<li><a style="color: #999;" href="http://support.google.com/chrome/bin/answer.py?hl=es&amp;answer=95647" target="_blank">Google Chrome</a></li>
+<li><a style="color: #999;" href="http://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-?redirectlocale=en-US&amp;redirectslug=Cookies" target="_blank">Mozilla Firefox</a></li>
+<li><a style="color: #999;" href="http://support.microsoft.com/kb/196955/es" target="_blank">Internet Explorer</a></li>
+<li><a style="color: #999;" href="http://support.apple.com/kb/HT1677?viewlocale=es_ES" target="_blank">Safari para iOS</a></li>
+</ul>
+</div>

@@ -1,0 +1,48 @@
+.wrapperCookie {
+	background: none repeat scroll 0 0 #888;
+	bottom: 0;
+	padding-top: 1px;
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+}
+.wrapperCookie .inner {
+	background-color: #FDFDFD;
+	padding: 8px 0;
+}
+.wrapperCookie .textCookie {
+	background-color: #F1F1F1;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px 4px 4px 4px;
+	margin: 0 auto;
+	max-width: 75%;
+	padding: 7px 37px 7px 17px;
+	position: relative;
+}
+.wrapperCookie .textCookie p {
+	color: #333333;
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+.wrapperCookie .textCookie p strong {
+	background: url("../img/cookie.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	font-weight: bold;
+	line-height: 19px;
+	padding-left: 19px;
+}
+
+.wrapperCookie .textCookie p a {
+	text-decoration: underline;
+	color: #333333;
+}
+
+.wrapperCookie .textCookie p a:hover {
+	text-decoration: none;
+	color: #333333;
+}
+
+.fancybox-inner, #fancybox-content > div {
+	overflow-x: hidden !important;
+}
+
